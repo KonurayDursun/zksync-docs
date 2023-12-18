@@ -55,7 +55,7 @@ yarn firebase deploy
 
 ## Extra documentation
 
-## cSpell
+## cSpell cSpell
 
 Configuration in `cspell.json`:
 
